@@ -1,0 +1,45 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+
+}
+
+body {
+    background-image: url("Images/Dice-wallpaper-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: 5px 0 #232931;
+    font-size: 5rem;
+    color: #4ef17f;
+}
+
+p {
+    font-size: 2rem;
+    color: #eeeeee;
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: 5px 0 #232931;
+}
+
+img {
+    width: 80%;
+}
+
+footer {
+    margin-top: 5%;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+
+}
